@@ -1,9 +1,6 @@
 -리눅스 명령어
 https://www.mireene.com/webimg/linux_tip1.htm
 
-강사님 ip
-http://192.168.0.153/
-
 dpkg 데미안패키지
 -i 설치
 
